@@ -18,3 +18,15 @@ A web application that generates personalized poems using OpenAI's GPT-4o model.
    - Windows: `venv\Scripts\activate`
 4. Install dependencies: `pip install fastapi uvicorn openai python-dotenv pymongo`
 5. Create a `.env` file with your API keys:
+
+6. Run the application: `uvicorn poem:app --reload`
+7. Open http://127.0.0.1:8000 in your browser
+
+## Project Structure
+
+- `poem.py` - Main application code
+- `README.md` - This file
+
+## License
+
+This project is for educational purposes only.
