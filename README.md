@@ -1,4 +1,6 @@
-# AI Poem Generator
+# AI Bars (AI Poem Generator)
+
+Sit back and kick it to the #1 TeeCee (Transformer Controller) in the universe.
 
 A web application that generates personalized poems using OpenAI's GPT-4o model.
 
